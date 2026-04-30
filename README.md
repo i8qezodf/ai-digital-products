@@ -1,6 +1,6 @@
 # 🤖 AI Prompt Templates Bundle
 
-> 50+ 专业级 AI 提示词模板，覆盖写作、开发、营销、研究等场景
+> 22+ 专业级 AI 提示词模板，覆盖写作、开发、营销、研究、效率等场景
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Price: $19](https://img.shields.io/badge/Price-$19-green.svg)](https://gumroad.com/l/ai-prompt-bundle)
@@ -9,99 +9,71 @@
 
 ```
 ai-prompt-bundle/
-├── 01-writing/           # 写作模板 (15个)
+├── 00-QUICK-START.md      # 快速开始指南
+├── 01-writing/            # 写作模板 (8个)
 │   ├── blog-outline.md
 │   ├── copywriting-headlines.md
 │   ├── email-sequence.md
 │   ├── social-media-post.md
+│   ├── video-script.md
 │   └── ...
-├── 02-coding/           # 开发模板 (12个)
+├── 02-coding/            # 开发模板 (5个)
 │   ├── code-review.md
 │   ├── bug-fix-template.md
 │   ├── api-design.md
-│   └── ...
-├── 03-marketing/         # 营销模板 (10个)
+│   ├── technical-documentation.md
+│   └── unit-test-generator.md
+├── 03-marketing/          # 营销模板 (4个)
 │   ├── seo-article.md
+│   ├── competitor-analysis.md
 │   ├── product-description.md
-│   ├── ad-copy.md
-│   └── ...
-├── 04-research/          # 研究模板 (8个)
+│   └── ad-copy.md
+├── 04-research/           # 研究模板 (3个)
 │   ├── market-analysis.md
-│   ├── competitor-research.md
-│   └── ...
-├── 05-productivity/      # 效率模板 (10个)
-│   ├── meeting-notes.md
-│   ├── task-breakdown.md
-│   └── ...
-└── README.md
+│   ├── user-interview-analysis.md
+│   └── trend-analysis.md
+└── 05-productivity/       # 效率模板 (5个)
+    ├── meeting-notes.md
+    ├── task-breakdown.md
+    ├── decision-framework.md
+    └── goal-setting.md
 ```
 
 ## 💡 模板分类
 
-### ✍️ Writing (15模板)
+### ✍️ Writing (8模板)
 - 博客文章大纲
 - 广告文案标题
-- 邮件序列
+- 邮件营销序列
 - 社交媒体帖子
-- 产品评测
-- 新闻稿
-- 案例研究
-- FAQ文档
 - 视频脚本
-- 播客大纲
-- 书籍章节
-- 演讲稿
-- LinkedIn文章
-- Instagram文案
-- 产品故事
+- 产品描述
+- 技术文档
+- 单元测试生成
 
-### 💻 Coding (12模板)
+### 💻 Coding (5模板)
 - 代码审查
 - Bug修复助手
 - API设计
-- 数据库设计
-- 单元测试生成
-- 代码重构
 - 技术文档
-- README编写
-- CLI工具设计
-- 正则表达式
-- Git提交信息
-- 代码解释
+- 单元测试生成
 
-### 📈 Marketing (10模板)
+### 📈 Marketing (4模板)
 - SEO文章
-- 产品描述
-- 广告文案
-- 落地页文案
-- 邮件营销
-- 品牌故事
 - 竞品分析
-- 客户画像
-- 营销漏斗
-- 社交媒体策略
+- 产品描述
+- 广告落地页
 
-### 🔬 Research (8模板)
+### 🔬 Research (3模板)
 - 市场分析
-- 竞品研究
-- 行业报告
 - 用户访谈分析
 - 趋势研究
-- 数据洞察
-- 投资分析
-- 技术评估
 
-### ⚡ Productivity (10模板)
+### ⚡ Productivity (5模板)
 - 会议纪要
 - 任务分解
-- 项目计划
 - 决策框架
-- 问题分析
 - 目标设定
-- 时间管理
-- 优先级排序
-- 复盘总结
-- 知识整理
 
 ## 🎯 特色功能
 
@@ -111,12 +83,22 @@ ai-prompt-bundle/
 - ✅ 持续更新
 - ✅ 一次购买，永久使用
 
+## 🚀 快速开始
+
+1. 选择对应需求的模板
+2. 复制模板内容到 AI 对话框
+3. 将 `[ ]` 中的内容替换为你的信息
+4. 获得专业级输出
+
+详见 [快速开始指南](ai-prompt-bundle/00-QUICK-START.md)
+
 ## 📈 更新日志
 
 ### v1.0 (2026-04-30)
-- 首发版本
-- 50+ 模板
-- 5大分类
+- 🎉 首发版本
+- 📦 22+ 模板
+- 📁 5大分类
+- 🌍 中英双语
 
 ## 💰 购买链接
 
