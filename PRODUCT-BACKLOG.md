@@ -50,8 +50,9 @@
 - [x] 创建 GitHub 仓库
 - [x] 推送 AI Prompt Templates Bundle v1.0
 - [x] 22+ 模板已上线
+- [x] 设置定时更新任务 (cron job 每3天自动运行)
 - [ ] 设置 Gumroad 销售页面
-- [ ] 设置定时更新任务
+- [ ] 创建 Gumroad 产品链接
 
 ---
 
