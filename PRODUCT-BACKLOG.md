@@ -1,68 +1,45 @@
 # AI Digital Products - Product Backlog
 
-> 记录已上线产品和规划中的产品
+## Active Products
 
-## 🏪 已上线产品
+### AI Prompt Templates Bundle v1.0
+- Status: Ready for sale (Paddle verification pending)
+- Platform: Paddle (under review)
+- Price: $19
+- URL: TBD (pending Paddle approval)
+- Files: ai-prompt-bundle-v1.0.zip (21.8 KB)
+- GitHub: https://github.com/i8qezodf/ai-digital-products
 
-### v1.0 (2026-04-30)
-| 产品 | 路径 | 模板数 | 状态 |
-|-----|------|-------|------|
-| AI Prompt Templates Bundle | `ai-prompt-bundle/` | 22+ | ✅ 已发布 |
+## Planned Products
 
-**GitHub:** https://github.com/i8qezodf/ai-digital-products
+### OpenClaw Skill Toolkit
+- Description: Common OpenClaw Skills packaged for distribution
+- Status: Planned
+- Priority: High
 
----
+### AI Coding Prompts Bundle
+- Description: Developer-focused AI prompts
+- Status: Planned
+- Priority: Medium
 
-## 📋 产品规划
+### Chinese Social Media Templates
+- Description: Content templates for Chinese platforms
+- Status: Planned
+- Priority: Low
 
-### 第二产品线（计划中）
+## Platform Status
 
-| 产品 | 优先级 | 预计完成 | 备注 |
-|-----|-------|---------|------|
-| **OpenClaw Skill 工具包** | P1 | 2026-05 | 打包常用 OpenClaw Skills |
-| **AI Coding Prompts Bundle** | P2 | 2026-05 | 专注开发者的提示词 |
-| **小红书内容模板包** | P2 | 2026-05 | 中文社交媒体内容 |
-| **AI 研究报告模板包** | P3 | 2026-06 | 专业研究报告框架 |
+### Paddle
+- Status: Verification under review
+- Expected: Live in 24-48 hours
 
-### 第三产品线（规划中）
+### Gumroad
+- Status: Account limited (PayPal required, user doesn't have PayPal)
+- Products: Created but not published
 
-| 产品 | 优先级 | 备注 |
-|-----|-------|------|
-| **自动化脚本工具集** | P2 | Python/JS 脚本工具 |
-| **Notion 模板包** | P3 | 生产力模板 |
-| **Gumroad 数字产品模板** | P3 | 供其他人使用 |
+## Notes
 
----
-
-## 📊 销售追踪
-
-### AI Prompt Templates Bundle
-- **Gumroad 链接:** https://i8qezodf.gumroad.com/l/ai-prompt-bundle
-- **定价:** $19
-- **当前销售:** 0 (新上线)
-- **目标 (30天):** 10 sales
-
----
-
-## 🔄 自主运维日志
-
-### 2026-04-30
-- [x] 创建 GitHub 仓库
-- [x] 推送 AI Prompt Templates Bundle v1.0
-- [x] 22+ 模板已上线
-- [x] 设置定时更新任务 (cron job 每3天自动运行)
-- [ ] 设置 Gumroad 销售页面
-- [ ] 创建 Gumroad 产品链接
-
----
-
-## 📝 更新记录
-
-### v1.0 (2026-04-30)
-- 首发 AI Prompt Templates Bundle
-- 22+ 模板，5大分类
-- 覆盖：写作、开发、营销、研究、效率
-
----
-
-*此文件由 AI 自动更新*
+- User is individual seller from China
+- PayPal not available (no account)
+- Paddle is primary platform for now
+- Content updated to remove AI patterns for natural human writing style
