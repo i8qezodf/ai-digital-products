@@ -10,12 +10,15 @@
 - Files: ai-prompt-bundle-v1.0.zip (21.8 KB)
 - GitHub: https://github.com/i8qezodf/ai-digital-products
 
-## Planned Products
+### OpenClaw Skill Toolkit v1.0
+- Status: Ready for sale
+- Platform: GitHub only (ready for Paddle/Gumroad listing)
+- Price: TBD
+- Files: openclaw-skill-toolkit-v1.0.zip
+- GitHub: https://github.com/i8qezodf/ai-digital-products
+- Contents: 18 skill templates across 4 categories
 
-### OpenClaw Skill Toolkit
-- Description: Common OpenClaw Skills packaged for distribution
-- Status: Planned
-- Priority: High
+## Planned Products
 
 ### AI Coding Prompts Bundle
 - Description: Developer-focused AI prompts
